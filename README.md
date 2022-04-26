@@ -5,5 +5,5 @@ This crowd monitoring system makes use of cost efficient ultrasonic sensors to d
 The data is shown in form of metrices in a mobile app and can be used to predict occupancy of a closed area based on previous data.
 
 # Applications-
-Hostel Mess, Public Transports, Seminar Halls etc# CrowdMonitoringSystem
-# CrowdMonitoringSystem
+Hostel Mess, Public Transports, Seminar Halls etc
+
